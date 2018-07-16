@@ -10,7 +10,7 @@ var overviewerConfig = {
                 -96
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1531697756, 
+            "last_rendertime": 1531701376, 
             "name": "Normal render of world", 
             "poititle": "Markers", 
             "north_direction": 0, 
@@ -66,6 +66,6 @@ var overviewerConfig = {
             67, 
             94
         ], 
-        "cacheTag": "1531697992"
+        "cacheTag": "1531701504"
     }
 };
